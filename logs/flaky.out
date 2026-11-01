@@ -17196,3 +17196,51 @@ execvp(./bin/flaky_worker) failed: No such file or directory
 [flaky] heartbeat 3 at 1793434016
 [flaky] heartbeat 4 at 1793434018
 [flaky] heartbeat 5 at 1793434020
+[flaky] heartbeat 6 at 1793434022
+[flaky] heartbeat 7 at 1793434024
+[flaky] heartbeat 8 at 1793434026
+[flaky] heartbeat 9 at 1793434028
+[flaky] heartbeat 10 at 1793434030
+[flaky] heartbeat 11 at 1793434032
+[flaky] heartbeat 12 at 1793434034
+[flaky] heartbeat 13 at 1793434036
+[flaky] heartbeat 14 at 1793434038
+[flaky] heartbeat 15 at 1793434040
+[flaky] heartbeat 16 at 1793434042
+[flaky] heartbeat 17 at 1793434044
+[flaky] simulating randomized service fault & auto-recovery (exit 1) at beat 17
+[flaky] worker started pid=1591 heartbeat_fd=3
+[flaky] heartbeat 1 at 1793434047
+[flaky] heartbeat 2 at 1793434049
+[flaky] heartbeat 3 at 1793434051
+[flaky] heartbeat 4 at 1793434053
+[flaky] heartbeat 5 at 1793434055
+[flaky] heartbeat 6 at 1793434057
+[flaky] heartbeat 7 at 1793434059
+[flaky] heartbeat 8 at 1793434061
+[flaky] heartbeat 9 at 1793434063
+[flaky] heartbeat 10 at 1793434065
+[flaky] heartbeat 11 at 1793434067
+[flaky] heartbeat 12 at 1793434069
+[flaky] heartbeat 13 at 1793434071
+[flaky] heartbeat 14 at 1793434073
+[flaky] heartbeat 15 at 1793434075
+[flaky] simulating randomized service fault & auto-recovery (exit 1) at beat 15
+[flaky] worker started pid=1611 heartbeat_fd=3
+[flaky] heartbeat 1 at 1793434078
+[flaky] heartbeat 2 at 1793434080
+[flaky] heartbeat 3 at 1793434082
+[flaky] heartbeat 4 at 1793434084
+[flaky] heartbeat 5 at 1793434086
+[flaky] heartbeat 6 at 1793434088
+[flaky] heartbeat 7 at 1793434090
+[flaky] heartbeat 8 at 1793434092
+[flaky] heartbeat 9 at 1793434094
+[flaky] heartbeat 10 at 1793434096
+[flaky] heartbeat 11 at 1793434098
+[flaky] heartbeat 12 at 1793434100
+[flaky] simulating randomized service fault & auto-recovery (exit 1) at beat 12
+[flaky] worker started pid=1631 heartbeat_fd=3
+[flaky] heartbeat 1 at 1793434103
+[flaky] heartbeat 2 at 1793434105
+[flaky] worker exiting cleanly

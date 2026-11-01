@@ -8535,3 +8535,28 @@ execvp(./bin/dummy_worker) failed: No such file or directory
 [audit] worker started pid=1566 heartbeat_fd=3
 [audit] heartbeat 1 at 1793434011
 [audit] heartbeat 2 at 1793434015
+[audit] heartbeat 3 at 1793434019
+[audit] heartbeat 4 at 1793434023
+[audit] heartbeat 5 at 1793434027
+[audit] heartbeat 6 at 1793434031
+[audit] heartbeat 7 at 1793434035
+[audit] heartbeat 8 at 1793434039
+[audit] heartbeat 9 at 1793434043
+[audit] heartbeat 10 at 1793434047
+[audit] heartbeat 11 at 1793434051
+[audit] heartbeat 12 at 1793434055
+[audit] heartbeat 13 at 1793434059
+[audit] heartbeat 14 at 1793434063
+[audit] heartbeat 15 at 1793434067
+[audit] heartbeat 16 at 1793434071
+[audit] heartbeat 17 at 1793434075
+[audit] heartbeat 18 at 1793434079
+[audit] heartbeat 19 at 1793434083
+[audit] heartbeat 20 at 1793434087
+[audit] heartbeat 21 at 1793434091
+[audit] heartbeat 22 at 1793434095
+[audit] heartbeat 23 at 1793434099
+[audit] heartbeat 24 at 1793434103
+[audit] simulating randomized service fault & auto-recovery (exit 1) at beat 24
+[audit] worker started pid=1632 heartbeat_fd=3
+[audit] worker exiting cleanly

@@ -16208,3 +16208,36 @@ execvp(./bin/hung_worker) failed: No such file or directory
 [hung] heartbeat 6 at 1793434016
 [hung] heartbeat 7 at 1793434018
 [hung] heartbeat 8 at 1793434020
+[hung] heartbeat 9 at 1793434022
+[hung] heartbeat 10 at 1793434024
+[hung] simulating watchdog stall (stopping heartbeats) at beat 10
+[hung] worker started pid=1583 heartbeat_fd=3
+[hung] heartbeat 1 at 1793434036
+[hung] heartbeat 2 at 1793434038
+[hung] heartbeat 3 at 1793434040
+[hung] heartbeat 4 at 1793434042
+[hung] heartbeat 5 at 1793434044
+[hung] heartbeat 6 at 1793434046
+[hung] heartbeat 7 at 1793434048
+[hung] simulating watchdog stall (stopping heartbeats) at beat 7
+[hung] worker started pid=1600 heartbeat_fd=3
+[hung] heartbeat 1 at 1793434060
+[hung] heartbeat 2 at 1793434062
+[hung] heartbeat 3 at 1793434064
+[hung] heartbeat 4 at 1793434066
+[hung] heartbeat 5 at 1793434068
+[hung] heartbeat 6 at 1793434070
+[hung] heartbeat 7 at 1793434072
+[hung] heartbeat 8 at 1793434074
+[hung] simulating watchdog stall (stopping heartbeats) at beat 8
+[hung] worker started pid=1616 heartbeat_fd=3
+[hung] heartbeat 1 at 1793434086
+[hung] heartbeat 2 at 1793434088
+[hung] heartbeat 3 at 1793434090
+[hung] heartbeat 4 at 1793434092
+[hung] heartbeat 5 at 1793434094
+[hung] heartbeat 6 at 1793434096
+[hung] heartbeat 7 at 1793434098
+[hung] heartbeat 8 at 1793434100
+[hung] heartbeat 9 at 1793434102
+[hung] simulating watchdog stall (stopping heartbeats) at beat 9

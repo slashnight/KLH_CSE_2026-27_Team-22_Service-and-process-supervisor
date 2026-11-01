@@ -11374,3 +11374,36 @@ execvp(./bin/dummy_worker) failed: No such file or directory
 [logger] heartbeat 5 at 1793434013
 [logger] heartbeat 6 at 1793434016
 [logger] heartbeat 7 at 1793434019
+[logger] heartbeat 8 at 1793434022
+[logger] heartbeat 9 at 1793434025
+[logger] heartbeat 10 at 1793434028
+[logger] heartbeat 11 at 1793434031
+[logger] heartbeat 12 at 1793434034
+[logger] simulating randomized service fault & auto-recovery (exit 1) at beat 12
+[logger] worker started pid=1584 heartbeat_fd=3
+[logger] heartbeat 1 at 1793434038
+[logger] heartbeat 2 at 1793434041
+[logger] heartbeat 3 at 1793434044
+[logger] heartbeat 4 at 1793434047
+[logger] heartbeat 5 at 1793434050
+[logger] heartbeat 6 at 1793434053
+[logger] heartbeat 7 at 1793434056
+[logger] heartbeat 8 at 1793434059
+[logger] heartbeat 9 at 1793434062
+[logger] heartbeat 10 at 1793434065
+[logger] heartbeat 11 at 1793434068
+[logger] heartbeat 12 at 1793434071
+[logger] heartbeat 13 at 1793434074
+[logger] heartbeat 14 at 1793434077
+[logger] heartbeat 15 at 1793434080
+[logger] heartbeat 16 at 1793434083
+[logger] heartbeat 17 at 1793434086
+[logger] heartbeat 18 at 1793434089
+[logger] heartbeat 19 at 1793434092
+[logger] simulating randomized service fault & auto-recovery (exit 1) at beat 19
+[logger] worker started pid=1622 heartbeat_fd=3
+[logger] heartbeat 1 at 1793434096
+[logger] heartbeat 2 at 1793434099
+[logger] heartbeat 3 at 1793434102
+[logger] heartbeat 4 at 1793434105
+[logger] worker exiting cleanly
